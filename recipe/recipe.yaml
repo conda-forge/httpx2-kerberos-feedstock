@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.1.0"
+  version: "2.1.1"
 
 package:
   name: httpx2-kerberos
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/h/httpx2-kerberos/httpx2_kerberos-${{ version }}.tar.gz
-  sha256: c47551b2787259379c3f350de309c538a160a76f74d7a88dd51ae940bf56ae82
+  sha256: 6ed09d0eec5e8331f58275b306ac93d3f5f950111caf6e3fe37ba52b7fb59371
 
 build:
   number: 0
